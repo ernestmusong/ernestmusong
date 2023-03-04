@@ -55,4 +55,4 @@ const musong = {
  
 <!-- BLOG-POST-LIST:END -->
 
-<p>You can check out my portfolio <a href="ernestmusong.github.io">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://ernestmusong.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
