@@ -60,10 +60,16 @@ const musong = {
  <div style='display:flex; flex-wrap:wrap;'>
   <a href='https://musong-e-store.netlify.app/' ><img src = './images/e-commerce.png' style="width:20rem; height: 15rem;" alt='Ecommerce image'></a>
 
+  > React phone store is an e-commerce web app built with React using the Context api for state management.
+
   <a href='https://musong-to-do.netlify.app/' ><img src = './images/todo.png' style="width:20rem;height: 15rem;" alt='Todo image'></a>
 
+  > To-do-list is a project at <a href='https://www.microverse.org/'>Microverse</a> module two built with javaScript, compiled by webpack.
+
   <a href='https://becuda.netlify.app/#/' ><img src = './images/becuda.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
+
+  > Cultural website is a website created with React to keep track of my cultural activities.
  </div>
  
 
-<p>You can check out my portfolio <a href="https://ernestmusong.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+### <p>You can check out my portfolio <a href="https://ernestmusong.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
