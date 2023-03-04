@@ -68,6 +68,10 @@ const musong = {
   <a href='https://becuda.netlify.app/#/' ><img src = './images/becuda.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
 
   > Cultural website is a website created with React to keep track of my cultural activities.
+
+  <a href='https://musong-react-pomodoro-clock.netlify.app/'><img src = './images/pomodoro-clock.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
+
+  > Built with React. This clock has a break length of 5 minutes and a session length of 25 minutes by default.
  </div>
  
 
