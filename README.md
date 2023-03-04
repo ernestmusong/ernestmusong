@@ -53,10 +53,13 @@ const musong = {
   <img src="https://cdn-icons-png.flaticon.com/512/2977/2977823.png" alt="SEO" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/256/wordpress.png" alt="WorddPress" width="40" height="40"/>&nbsp;
 </div>
+
+
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> Some of my awesome projects... 
 
-<!-- BLOG-POST-LIST:START -->
  
-<!-- BLOG-POST-LIST:END -->
+ <a href='https://musong-e-store.netlify.app/' ><img src = './images/e-commerce.png' style="width:20rem;height: 15rem;" alt='Ecommerce image'></a>
+ <a href='https://musong-to-do.netlify.app/' ><img src = './images/todo.png' style="width:20rem;height: 15rem;" alt='Todo image'></a>
+ 
 
 <p>You can check out my portfolio <a href="https://ernestmusong.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
