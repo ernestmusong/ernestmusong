@@ -58,11 +58,11 @@ const musong = {
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> Some of my awesome projects... 
 
  <div style='display:flex; flex-wrap:wrap;'>
-    <a href='https://musong-e-store.netlify.app/' ><img src = './images/e-commerce.png' style="width:20rem;height: 15rem;" alt='Ecommerce image'></a>
+  <a href='https://musong-e-store.netlify.app/' ><img src = './images/e-commerce.png' style="width:20rem; height: 15rem;" alt='Ecommerce image'></a>
 
-    <a href='https://musong-to-do.netlify.app/' ><img src = './images/todo.png' style="width:20rem;height: 15rem;" alt='Todo image'></a>
+  <a href='https://musong-to-do.netlify.app/' ><img src = './images/todo.png' style="width:20rem;height: 15rem;" alt='Todo image'></a>
 
-    <a href='https://becuda.netlify.app/#/' ><img src = './images/becuda.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
+  <a href='https://becuda.netlify.app/#/' ><img src = './images/becuda.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
  </div>
  
 
