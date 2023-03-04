@@ -1,7 +1,7 @@
 
   <h1> Hi, I'm Musong Ernest! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Remote Software developer ready open for work.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 <div id="badges"align="left">
 <a href="https://www.linkedin.com/in/musong-ernest-akeh-921b73211/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -71,7 +71,7 @@ const musong = {
 
   <a href='https://musong-react-pomodoro-clock.netlify.app/'><img src = './images/pomodoro-clock.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
 
-  > Built with React. This clock has a break length of 5 minutes and a session length of 25 minutes by default.
+  > Pomodoro clock is a timer clock built with React. This clock has a break length of 5 minutes and a session length of 25 minutes by default.
  </div>
  
 
