@@ -24,8 +24,8 @@ const musong = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Rails, SQL, mongoDB],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am honing my React skills and picking up TypeScript",
+  otherSkills: [WordPress, SEO, Web hosting],
+  challenge: "Eager to contribute to open source",
   funFacts: ['I am currently completing course work at Microverse', 
   'At Microverse, we do pair-programming everyday']
 }
@@ -49,7 +49,7 @@ const musong = {
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" **alt="MYSQL" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
 </div>
-<p>Some of my awesome projects<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> Some of my awesome projects... 
 
 <!-- BLOG-POST-LIST:START -->
  
