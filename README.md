@@ -23,11 +23,11 @@
 const musong = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Rails, SQL, mongoDB],
+  skills: [JavaScript, React, Redux, Rails, SQL, mongoDB],
   otherSkills: [WordPress, SEO, Web hosting],
   challenge: "Eager to contribute to open source",
-  funFacts: ['I am currently completing course work at Microverse', 
-  'At Microverse, we do pair-programming everyday']
+  work: 'I am currently completing course work at Microverse', 
+  schedule:'At Microverse, we do pair-programming everyday',
 }
 ```
 
