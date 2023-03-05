@@ -60,19 +60,19 @@ const musong = {
  <div style='display:flex; flex-wrap:wrap;'>
   <a href='https://musong-e-store.netlify.app/' ><img src = './images/e-commerce.png' style="width:20rem; height: 15rem;" alt='Ecommerce image'></a>
 
-  > React phone store is an e-commerce web app built with React using the Context api for state management.
+  > Phone store
 
   <a href='https://musong-to-do.netlify.app/' ><img src = './images/todo.png' style="width:20rem;height: 15rem;" alt='Todo image'></a>
 
-  > To-do-list is a project at <a href='https://www.microverse.org/'>Microverse</a> module two built with javaScript, compiled by webpack.
+  > To-do-list
 
   <a href='https://becuda.netlify.app/#/' ><img src = './images/becuda.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
 
-  > Cultural website is a website created with React to keep track of my cultural activities.
+  > Cultural website
 
   <a href='https://musong-react-pomodoro-clock.netlify.app/'><img src = './images/pomodoro-clock.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
 
-  > Pomodoro clock is a timer clock built with React. This clock has a break length of 5 minutes and a session length of 25 minutes by default.
+  > Pomodoro clock
  </div>
  
 
