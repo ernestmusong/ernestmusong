@@ -51,6 +51,7 @@ const musong = {
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/2977/2977823.png" alt="SEO" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/256/wordpress.png" alt="WorddPress" width="40" height="40"/>&nbsp;
+  <img src="https://tse2.mm.bing.net/th?id=OIP.OPb7zs9rFTqEqwIyKP1nBQHaHa&pid=Api&P=0" alt="WorddPress" width="40" height="40"/>&nbsp;
 </div>
 
 
