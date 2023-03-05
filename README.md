@@ -54,7 +54,7 @@ const musong = {
 </div>
 
 
-### <img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="50"> Some of my awesome projects... 
+### <img src="https://media4.giphy.com/media/l0K4kWJir91VEoa1W/giphy.gif?cid=ecf05e47liokhuzd5sj41qgwwldid6hw3pcam6imsc2d4aar&rid=giphy.gif&ct=g" width="50"> Some of my awesome projects... 
 
  <div style='display:flex; flex-wrap:wrap;'>
   <a href='https://musong-e-store.netlify.app/' ><img src = './images/e-commerce.png' style="width:20rem; height: 15rem;" alt='Ecommerce image'></a>
