@@ -1,6 +1,6 @@
 
   <h1> Hi, I'm Musong Ernest! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<img align='right' src="https://media4.giphy.com/media/XtydbjSSwkC7K2zBTH/giphy.gif?cid=ecf05e47liokhuzd5sj41qgwwldid6hw3pcam6imsc2d4aar&rid=giphy.gif&ct=g" width="230">
 <p><em>Remote Software developer open for work.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 <div id="badges"align="left">
 <a href="https://www.linkedin.com/in/musong-ernest-akeh-921b73211/">
@@ -75,4 +75,4 @@ const musong = {
  </div>
  
 
-### <p>You can check out my portfolio <a href="https://ernestmusong.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+### <p>You can check out my portfolio <a href="https://ernestmusong.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
