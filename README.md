@@ -12,6 +12,9 @@
 <a href="https://twitter.com/MusongAkeh">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
+  <a href="mailto:ernestakeh@gmail.com">
+<img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="mail Badge"/>
+</a>
 </div>
 </h1>
               
