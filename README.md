@@ -1,7 +1,7 @@
 
   <h1> Hi, I'm Musong Ernest! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
 <img align='right' src="https://media4.giphy.com/media/XtydbjSSwkC7K2zBTH/giphy.gif?cid=ecf05e47liokhuzd5sj41qgwwldid6hw3pcam6imsc2d4aar&rid=giphy.gif&ct=g" width="230">
-<p><em>Remote Software developer open for work.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Remote Software developer open to work.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 <div id="badges"align="left">
 <a href="https://www.linkedin.com/in/musong-ernest-akeh-921b73211/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,8 +25,8 @@
 ```javascript
 const musong = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  skills: [JavaScript, React, Redux, Rails, SQL, mongoDB],
+  pronouns: ["he", "him"],
+  skills: [JavaScript, React, Redux, Rails, SQL, mongoDB, testing],
   otherSkills: [WordPress, SEO, Web hosting],
   challenge: "Eager to contribute to open source",
   work: 'I am currently completing course work at Microverse', 
@@ -65,17 +65,17 @@ const musong = {
 
   > Phone store
 
-  <a href='https://musong-to-do.netlify.app/' ><img src = './images/todo.png' style="width:20rem;height: 15rem;" alt='Todo image'></a>
+  <a href='https://musong-to-do.netlify.app/' ><img src = './images/tvmaze.png' style="width:20rem;height: 15rem;" alt='card'></a>
 
-  > To-do-list
+  > TVMaze movies
 
-  <a href='https://becuda.netlify.app/#/' ><img src = './images/becuda.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
+  <a href='https://becuda.netlify.app/#/' ><img src = './images/income-statement.png' style="width:20rem;height: 15rem;" alt='card'></a>
 
-  > Cultural website
+  > Annual income report
 
-  <a href='https://musong-react-pomodoro-clock.netlify.app/'><img src = './images/pomodoro-clock.png' style="width:20rem;height: 15rem;" alt='becuda image'></a>
+  <a href='https://musong-react-pomodoro-clock.netlify.app/'><img src = './images/bookstore.png' style="width:20rem;height: 15rem;" alt='card'></a>
 
-  > Pomodoro clock
+  > Bookstore
  </div>
  
 
