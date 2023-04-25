@@ -3,7 +3,7 @@
 <img align='right' src="https://media4.giphy.com/media/XtydbjSSwkC7K2zBTH/giphy.gif?cid=ecf05e47liokhuzd5sj41qgwwldid6hw3pcam6imsc2d4aar&rid=giphy.gif&ct=g" width="230">
 <p><em>Remote Software developer open to work.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 <div id="badges"align="left">
-<a href="https://www.linkedin.com/in/musong-ernest-akeh-921b73211/">
+<a href="https://www.linkedin.com/in/musongernestakeh/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://github.com/ernestmusong">
