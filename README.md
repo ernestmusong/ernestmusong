@@ -65,15 +65,15 @@ const musong = {
 
   > Phone store
 
-  <a href='https://musong-to-do.netlify.app/' ><img src = './images/tvmaze.png' style="width:20rem;height: 15rem;" alt='card'></a>
+  <a href='https://musong-tv-shows.netlify.app/' ><img src = './images/tvmaze.png' style="width:20rem;height: 15rem;" alt='card'></a>
 
   > TVMaze movies
 
-  <a href='https://becuda.netlify.app/#/' ><img src = './images/income-statement.png' style="width:20rem;height: 15rem;" alt='card'></a>
+  <a href='https://musong-annual-report.netlify.app/' ><img src = './images/income-statement.png' style="width:20rem;height: 15rem;" alt='card'></a>
 
   > Annual income report
 
-  <a href='https://musong-react-pomodoro-clock.netlify.app/'><img src = './images/bookstore.png' style="width:20rem;height: 15rem;" alt='card'></a>
+  <a href='https://musong-bookstore.netlify.app/'><img src = './images/bookstore.png' style="width:20rem;height: 15rem;" alt='card'></a>
 
   > Bookstore
  </div>
