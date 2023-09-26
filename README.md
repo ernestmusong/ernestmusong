@@ -60,21 +60,34 @@ const musong = {
 ### <img src="https://media4.giphy.com/media/l0K4kWJir91VEoa1W/giphy.gif?cid=ecf05e47liokhuzd5sj41qgwwldid6hw3pcam6imsc2d4aar&rid=giphy.gif&ct=g" width="50"> Some of my awesome projects... 
 
  <div style='display:flex; flex-wrap:wrap;'>
-  <a href='https://musong-e-store.netlify.app/' ><img src = './images/furniture-store.png' style="width:20rem; height: 15rem;" alt='Ecommerce image'></a>
+  <a href='https://musong-e-store.netlify.app/' ><img src = './images/furniture-store.png' style="width:20rem; height: 15rem;" alt='Ecommerce image' target="_blank"></a>
 
-  > Furniture Store
+  > Furniture Store: E-commerce web app built with React/Redux
 
-  <a href='https://musong-tv-shows.netlify.app/' ><img src = './images/tvmaze.png' style="width:20rem;height: 15rem;" alt='card'></a>
+ <div style='display:flex; flex-wrap:wrap;'>
+  <a href='https://becuda.netlify.app/#/' ><img src = './images/becuda.png' style="width:20rem; height: 15rem;" alt='cultural image' target="_blank"></a>
 
-  > TVMaze movies
+  > Cultural website: A Cultural web app built with React/Redux 
 
-  <a href='https://musong-annual-report.netlify.app/' ><img src = './images/income-statement.png' style="width:20rem;height: 15rem;" alt='card'></a>
+  <a href='https://musong-blog-app.onrender.com/' ><img src = './images/blog.PNG' style="width:20rem;height: 15rem;" alt='Blog app' target="_blank"></a>
 
-  > Annual income report
+  > Blog app: A Blogging web app built with Rails
 
-  <a href='https://musong-bookstore.netlify.app/'><img src = './images/bookstore.png' style="width:20rem;height: 15rem;" alt='card'></a>
+  <a href='https://musong-tv-shows.netlify.app/' ><img src = './images/tvmaze.png' style="width:20rem;height: 15rem;" alt='card' target="_blank"></a>
 
-  > Bookstore
+  > TVMaze movies: A Movies website built with javaScript/Webpack
+
+  <a href='https://emmacroy.netlify.app/' ><img src = './images/emmacroy-tech.PNG' style="width:20rem;height: 15rem;" alt='Education website' target="_blank"></a>
+
+  > Emmacroy Technologies: An Education website built with javaScript
+
+  <a href='https://musong-annual-report.netlify.app/' ><img src = './images/income-statement.png' style="width:20rem;height: 15rem;" alt='card' target="_blank"></a>
+
+  > Annual income report: A Financial report web app built with React/Redux
+
+  <a href='https://musong-bookstore.netlify.app/'><img src = './images/bookstore.png' style="width:20rem;height: 15rem;" alt='bookstore' target="_blank"></a>
+
+  > Bookstore: A Bookstore app built with React/Redux
  </div>
  
 
