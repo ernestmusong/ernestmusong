@@ -26,7 +26,7 @@
 const musong = {
   Profession: "Software Engineer" || "Full-stack web developer",
   Gender: "Male",
-  skills: [JavaScript, React, Redux, Ruby/Rails, SQL, mongoDB, testing],
+  skills: [JavaScript, React, Redux, Ruby/Rails, Nodejs, Express, SQL, mongoDB, testing],
   otherSkills: [WordPress, SEO, Web hosting],
   Passion: "Pair programming",
   Status: 'Open to work', 
@@ -57,7 +57,7 @@ const musong = {
 </div>
 
 
-### <img src="https://media4.giphy.com/media/l0K4kWJir91VEoa1W/giphy.gif?cid=ecf05e47liokhuzd5sj41qgwwldid6hw3pcam6imsc2d4aar&rid=giphy.gif&ct=g" width="50"> Some of my awesome projects... 
+<!-- ### <img src="https://media4.giphy.com/media/l0K4kWJir91VEoa1W/giphy.gif?cid=ecf05e47liokhuzd5sj41qgwwldid6hw3pcam6imsc2d4aar&rid=giphy.gif&ct=g" width="50"> Some of my awesome projects... 
 
  <div style='display:flex; flex-wrap:wrap;'>
   <a href='https://musong-furniture-store.netlify.app/' ><img src = './images/furniture-store.png' style="width:20rem; height: 15rem;" alt='Ecommerce image' target="blank"></a>
@@ -88,7 +88,7 @@ const musong = {
   <a href='https://musong-bookstore.netlify.app/'><img src = './images/bookstore.png' style="width:20rem;height: 15rem;" alt='bookstore' target="_blank"></a>
 
   > Bookstore: A Bookstore app built with React/Redux
- </div>
+ </div> -->
  
 
 ### <p>You can check out my portfolio <a href="https://ernestmusong.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
